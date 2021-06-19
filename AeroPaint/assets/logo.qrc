@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>AeroPaintLogo.png</file>
+  </qresource>
+</RCC>
